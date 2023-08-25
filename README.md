@@ -1,4 +1,4 @@
-#Introduction-to-Machine-Learning-CS771
+##Introduction-to-Machine-Learning-CS771
 
 
 
@@ -12,7 +12,7 @@ Developed an entropy‑driven decision tree AI for a word game, achieving a
 perfect 100% model accuracy rate.
 • guessed words with an average of just 3.645 queries
 • Employed entropy‑driven splitting and strategic stopping criteria, contributing to superior performance
-•##XORRO PUF Response Predictor‑
+##XORRO PUF Response Predictor‑
 Developed an innovative approach to decipher XORRO PUF (Physically Unclonable Function)
 systems. Combined mathematical derivations and machine learning methods to tackle the prediction of individual PUF outputs
 within XOR‑PUF systems.
